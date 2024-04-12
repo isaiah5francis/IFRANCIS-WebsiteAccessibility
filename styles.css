@@ -32,10 +32,10 @@ body {
 
 .hero-banner {
   background: url('images/headerimage.png') center/cover no-repeat;
-  color: #000000;
+  color: #ffffff;
   padding: 50px 0;
   margin-bottom: 15px;
-  text-shadow: rgb(255, 255, 255) 2px 0 5px;
+  text-shadow: rgb(0, 0, 0) 4px 0 5px;
 }
 
 .hero-banner h1 {
